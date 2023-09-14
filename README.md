@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm attending Gachon University
+### I'm attending Gachon University
 ### I'm currently learning about computer science and AI
 
 <!--
