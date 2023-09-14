@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm attending Gachon University
-I'm currently learning about computer science and AI
+### I'm currently learning about computer science and AI
 
 <!--
 **SeojinPark-GachonUniv/SeojinPark-GachonUniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
